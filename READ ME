@@ -1,0 +1,17 @@
+# Flappy Bird Clone - Java Swing 🎮
+
+A desktop-based Flappy Bird clone built using Java and Swing, designed to replicate the original game's mechanics and feel.
+
+## 🛠️ Features
+
+- Smooth animations using Java's game loop logic
+- Obstacle (pipe) generation with increasing difficulty
+- Collision detection for game-over conditions
+- Score tracking and display
+- Simple and intuitive keyboard controls
+
+## 🧑‍💻 Technologies Used
+
+- Java
+- Java Swing (for GUI)
+- Object-Oriented Programming (OOP)
